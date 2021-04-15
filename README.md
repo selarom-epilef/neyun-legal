@@ -1,2 +1,3 @@
-# neyun-privacy-policy
-neyun-privacy-policy
+# Neyün Legal
+
+Legal information regarding Neyün and its services
